@@ -1,4 +1,4 @@
-Algorithms and Data Structures in Python
+Algorithms and Data Structures on Python
 
 1) exchange
 2) brute - brute force/    # print(' АЛГОРИТМЫ Метод грубой силы (Brute force) – перебор всех значений подряд\n')
